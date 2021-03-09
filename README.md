@@ -17,3 +17,5 @@
   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/0xb0b1/todo-list-reactjs?color=03B0E8" />
   <img alt="" src="https://img.shields.io/github/repo-size/0xb0b1/todo-list-reactjs?color=03B0E8" />
 </p>
+
+> This project was made to practice the reactjs skills learned at the ignite bootcamp on rocketseat.
