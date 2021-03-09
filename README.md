@@ -1,4 +1,4 @@
-<h1 align="center">React Task List</h1>
+<h1 align="center">React "Todo List"</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulo-vicente-6abab0198/">
