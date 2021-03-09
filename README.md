@@ -33,7 +33,7 @@
 This project was made using the follow technologies:
 
 * [React.js](https://reactjs.org/) - To create the UI
-* [SASS] (https://sass-lang.com/) - CSS preprocessor
+* [SASS](https://sass-lang.com/) - CSS preprocessor
 * [TypeScript](https://typescriptlang.org) - For static typing
 * [Netlify](https://www.netlify.com/) - To deploy website     
 
