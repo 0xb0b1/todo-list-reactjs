@@ -13,7 +13,7 @@
   <a href="https://github.com/0xb0b1/todo-list-reactjs/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-03B0E8.svg" target="_blank" />
   </a>
-  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/0xb0b1/next-ecommerce?color=03B0E8" />
-  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/0xb0b1/next-ecommerce?color=03B0E8" />
-  <img alt="" src="https://img.shields.io/github/repo-size/0xb0b1/next-ecommerce?color=03B0E8" />
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/0xb0b1/todo-list-reactjs?color=03B0E8" />
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/0xb0b1/todo-list-reactjs?color=03B0E8" />
+  <img alt="" src="https://img.shields.io/github/repo-size/0xb0b1/todo-list-reactjs?color=03B0E8" />
 </p>
