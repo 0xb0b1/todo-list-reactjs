@@ -27,7 +27,7 @@
 </div>
 
 # :eyes: Demo Website
-👉  demo: TODO: deploy
+👉  demo: paulo-vicente-todo-app.netlify.app
 
 # :computer: Technologies
 This project was made using the follow technologies:
