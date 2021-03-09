@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { v4 } from "uuid";
 
 import "../styles/tasklist.scss";
 
@@ -19,7 +20,7 @@ export function TaskList() {
         const newTask = [
             ...tasks,
             {
-                id: Math.floor(Math.random() * 100),
+                id: v4(),
                 title: newTaskTitle,
                 isComplete: false,
             },
