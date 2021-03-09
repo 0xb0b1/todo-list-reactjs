@@ -19,3 +19,43 @@
 </p>
 
 > This project was made to practice the reactjs skills learned at the ignite bootcamp on rocketseat.
+
+
+<br />
+<div align="center">
+  <img src="https://github.com/0xb0b1/todo-list-reactjs/blob/main/screenshot.jpg" width="720">
+</div>
+
+# :eyes: Demo Website
+👉  demo: paulo-vicente-todo-app.netlify.app
+
+# :computer: Technologies
+This project was made using the follow technologies:
+
+* [React.js](https://reactjs.org/) - To create the UI
+* [SASS](https://sass-lang.com/) - CSS preprocessor
+* [TypeScript](https://typescriptlang.org) - For static typing
+* [Netlify](https://www.netlify.com/) - To deploy website     
+
+# :rocket: Features
+
+- Add task.
+- Remove task
+- Complete task
+  TODO:
+    ! save on localStorage
+
+# :construction_worker: How to run
+**Just clone the repo and then:**
+
+### Install Dependencies
+```bash
+yarn install
+```
+### Run Aplication
+```bash 
+yarn dev 
+```
+
+Open [http://localhost:3000](http://localhost:8080) with your browser to see the result.
+<br>
