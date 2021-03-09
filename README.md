@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/paulo-vicente-6abab0198/">
-    <img alt="Paulo Vicente" src="https://img.shields.io/badge/-0xb0b1-272727?style=flat&logo=Linkedin&logoColor=white" />
+    <img alt="Paulo Vicente" src="https://img.shields.io/badge/-PauloVicente-272727?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/0xb0b1/todo-list-reactjs#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-03B0E8.svg" target="_blank" />
