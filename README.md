@@ -50,7 +50,7 @@ This project was made using the follow technologies:
 
 ### Install Dependencies
 ```bash
-yarn install
+yarn
 ```
 ### Run Aplication
 ```bash 
