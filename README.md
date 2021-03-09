@@ -19,3 +19,9 @@
 </p>
 
 > This project was made to practice the reactjs skills learned at the ignite bootcamp on rocketseat.
+
+
+<br />
+<div align="center">
+  <img src="https://github.com/0xb0b1/todo-list-reactjs/blob/master/screenshot.jpg" width="720">
+</div>
