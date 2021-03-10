@@ -42,8 +42,7 @@ This project was made using the follow technologies:
 - Add task.
 - Remove task
 - Complete task
-  TODO:
-    ! save on localStorage
+- TODO: *save on localStorage*
 
 # :construction_worker: How to run
 **Just clone the repo and then:**
