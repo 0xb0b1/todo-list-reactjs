@@ -10,7 +10,7 @@
   <a href="https://github.com/0xb0b1/todo-list-reactjs/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-03B0E8.svg" target="_blank" />
   </a>
-  <a href="https://github.com/0xb0b1/todo-list-reactjs/blob/master/LICENSE">
+  <a href="https://github.com/0xb0b1/todo-list-reactjs/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-03B0E8.svg" target="_blank" />
   </a>
   <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/0xb0b1/todo-list-reactjs?color=03B0E8" />
